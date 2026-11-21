@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Never commit release binaries; they go on the Releases page
+*.zip
+*.vst3
+*.clap
+*.component
+*.exe
+*.app/

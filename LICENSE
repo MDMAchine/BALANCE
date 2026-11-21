@@ -1,0 +1,22 @@
+MDMAchine BALANCE - Freeware Licence
+Copyright (c) 2026 A&E Concepts. All rights reserved.
+
+BALANCE is freeware. You may download, install and use it free of charge
+on any number of machines, for any purpose, including commercial work.
+
+You may not:
+  - sell, rent or sublicense BALANCE, alone or bundled with anything else;
+  - re-host or redistribute the downloads (link to this repository instead);
+  - modify, patch, decompile, disassemble or reverse engineer the binaries,
+    or distribute modified builds.
+
+BALANCE is closed source. No source code is provided or licensed.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+
+VST is a trademark of Steinberg Media Technologies GmbH. Audio Unit is a
+trademark of Apple Inc. This software uses JUCE.
